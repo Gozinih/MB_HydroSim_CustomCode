@@ -26,18 +26,6 @@ All required libraries are available within the MODSIM-DSS installation director
 
 ---
 
-### 🔢 Conversion Coefficients
-| Conversion | Coefficient | Description |
-|-------------|--------------|-------------|
-| cms → 1000 m³/day | 86.4 | Used for storage and flow conversions |
-| cfs → cms | 35.3147 | Discharge conversion |
-| cms → cfs | 0.02831 | Reverse discharge conversion |
-| ft → m | 0.3048 | Elevation/height conversion |
-
-Two-decimal precision is used throughout the MODSIM-DSS simulation workflow. Therefore, in the custom code, all data **read** from MODSIM-DSS are divided by 100, and all data **written** back are multiplied by 100, to maintain consistency in numerical scaling of MODSIM-DSS.
-
----
-
 ### 🧾 Reference
 > Gozini, H., Asadzadeh, M., Stadnyk, T. A., Riddell, P., & Tolossa, H. (2025).  
 > *Integrated Water Resources and Hydropower Generation Modelling in a Complex, Cold Regions River-Reservoir System.*  
