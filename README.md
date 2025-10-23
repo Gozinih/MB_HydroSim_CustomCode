@@ -1,4 +1,4 @@
-# MB_HydroSim_CustomRun
+# MB_HydroSim_CustomCode
 
 This is the custom code written in VB.Net and used in **MB_HydroSim** (Gozini et al., 2025, submitted).  
 MB_HydroSim is a **MODSIM-DSS (v8.5.1)** simulation tool developed for daily water surface elevation, outflow, and hydropower simulation in the Province of Manitoba.
