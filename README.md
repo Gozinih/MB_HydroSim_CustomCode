@@ -7,7 +7,7 @@ MB_HydroSim is a **MODSIM-DSS (v8.5.1)** simulation tool developed for daily wat
 
 ### ⚙️ Description
 
-This code replicates the operational logic used in **MB_HydroSim**, for 28 major lakes and 43 major control points that regulates the flow to and through 16 hydropower stations in Manitoba.
+This code replicates the operational logic used in **MB_HydroSim**, for major lakes and control points that regulates the flow to and through 16 hydropower stations in Manitoba.
 Sensitive data such as proprietary rule curves, regression coefficients, and operational thresholds have been replaced with the placeholder `'Num'` to comply with confidentiality agreements.
 This code can serve as a reference for developing and implementing complex operational rules in other case studies using MODSIM-DSS.
 
