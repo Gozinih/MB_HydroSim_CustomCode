@@ -34,8 +34,7 @@ All required libraries are available within the MODSIM-DSS installation director
 | cms → cfs | 0.02831 | Reverse discharge conversion |
 | ft → m | 0.3048 | Elevation/height conversion |
 
-Two-decimal precision is used throughout the MODSIM simulation workflow.  
-All data **read** from MODSIM-DSS are divided by 100, and all data **written** back are multiplied by 100, to maintain consistency in numerical scaling of MODSIM-DSS.
+Two-decimal precision is used throughout the MODSIM-DSS simulation workflow. Therefore, all data **read** from MODSIM-DSS are divided by 100, and all data **written** back are multiplied by 100, to maintain consistency in numerical scaling of MODSIM-DSS.
 
 ---
 
