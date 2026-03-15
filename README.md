@@ -27,4 +27,4 @@ All required libraries are available within the MODSIM-DSS installation director
 ---
 
 ### 🧾 Reference
-> Gozini, H., Asadzadeh, M., Stadnyk, T. A., Riddell, P., & Tolossa, H. (2025). *Integrated Water Resources and Hydropower Generation Modelling in a Complex, Cold Regions River-Reservoir System.* Manuscript submitted for publication to *Sustainable Water Resources Management*.
+> Gozini, H., Asadzadeh, M., Stadnyk, T. et al. Integrated water resources and hydropower generation modelling in a complex, cold-regions river-reservoir system. Sustain. Water Resour. Manag. 12, 20 (2026). https://doi.org/10.1007/s40899-026-01335-7.
